@@ -12,3 +12,10 @@ It helps me visualize the branches and where they meet so I know when fixes or b
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Because it includes all the commits from both branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic Pros - can be done quickly
+Automatic Cons - can't always resolve conflicts
+Manual Pros - can get exactly what you are thinking
+Manual Cons - slow
+
