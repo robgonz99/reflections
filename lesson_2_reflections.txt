@@ -9,3 +9,6 @@ Every new feature could have its own branch.
 
 How do the diagrams help you visualize the branch structure?
 It helps me visualize the branches and where they meet so I know when fixes or bugs were introduced.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Because it includes all the commits from both branches.
